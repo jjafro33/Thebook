@@ -1,0 +1,1354 @@
+# THE BOOK – CHAPTER 4
+# THE WAR OF PELICON DESERT
+### Complete 3D Story Mode Game Development Prompt
+**Developed by NUBLIX**
+
+---
+
+# 1. PROJECT OVERVIEW
+
+Continue the existing 3D fantasy adventure game **THE BOOK**.
+
+Chapter 4 begins immediately after Chapter 3, where Nate and Jafr reach the Valley of Silent Bells.
+
+Nate discovers that the world inside THE BOOK contains many different stories. Suddenly, he is transported into a story about a war in a desert kingdom called Pelicon.
+
+During this chapter, Nate:
+- Arrives unexpectedly in the middle of a fantasy war.
+- Meets a wounded warrior.
+- Discovers that a princess is being held inside the castle.
+- Helps the people of Pelicon.
+- Reaches the castle and meets Princess Eita Yusa.
+- Discovers that Eita is actually his childhood friend from Brook Village.
+- Reunites with Jafr and discovers Sneh, Jafr's old companion.
+- Learns that Eita has also been trapped inside THE BOOK.
+- Discovers a possible way to escape through Agnes's Church.
+
+**Chapter 4 title:** THE WAR OF PELICON DESERT.
+
+**Main theme:** War, mystery, friendship, reunion, hope and escape.
+
+## IMPORTANT DEVELOPMENT RULES
+
+- Continue the existing game project.
+- Preserve Chapters 1, 2 and 3.
+- Maintain Nate and Jafr's existing character models.
+- Maintain the existing inventory, camera, movement, quest and save systems.
+- Create Chapter 4 as a connected continuation.
+- Do not replace the existing game engine or architecture unnecessarily.
+- Every gameplay interaction must work.
+
+---
+
+# 2. OPENING CINEMATIC – THE WAR BEGINS
+
+## Scene: The Valley of Silent Bells
+
+Continue from Chapter 3's ending.
+
+Nate stands in the Valley of Silent Bells.
+
+Jafr is sitting on his shoulder.
+
+The Memory Crystal glows.
+
+The mysterious voice echoes:
+
+"Welcome, Reader."
+
+Nate looks toward the enormous tower made of books.
+
+Suddenly, the floating bells begin vibrating.
+
+One enormous bell rings.
+
+A strange book opens in front of Nate.
+
+Its pages begin turning rapidly.
+
+A golden page shows a desert kingdom.
+
+The page displays:
+
+**THE WAR OF PELICON DESERT**
+
+Suddenly, a powerful magical wind pulls Nate toward the page.
+
+Jafr shouts:
+
+"NATE! HOLD ON!"
+
+The screen becomes bright.
+
+Nate disappears into the book.
+
+## Transportation cinematic
+
+Show:
+- Flying pages.
+- Golden magical symbols.
+- Desert landscapes appearing between the pages.
+- A huge castle.
+- Desert warriors.
+- Smoke and dust in the distance.
+- A large battlefield.
+- A mysterious princess standing inside a castle.
+
+Nate and Jafr are transported into the story.
+
+---
+
+# 3. ACT 1 – THE BATTLEFIELD OF PELICON
+
+## Environment: Pelicon Desert
+
+Create a huge, cinematic fantasy desert kingdom.
+
+The battlefield should feel enormous and alive.
+
+### Environment design
+
+- Vast golden sand dunes.
+- Rocky desert mountains.
+- Ancient stone walls.
+- Large castle in the distance.
+- Desert town buildings.
+- Wooden watchtowers.
+- Torn kingdom banners.
+- Desert vegetation.
+- Sandstorms.
+- Dust particles.
+- Smoke in the distance.
+- Flying birds.
+- Moving clouds.
+- Sunlight reflecting on the sand.
+
+Create a fictional medieval fantasy environment.
+
+Use dramatic but non-graphic battlefield atmosphere.
+
+### Nate's sudden arrival
+
+Nate suddenly appears in the middle of the battlefield.
+
+He falls onto the sand.
+
+The camera follows his fall.
+
+He slowly gets up.
+
+Jafr appears from the Universal Snail Pocket and climbs onto Nate's shoulder.
+
+**Jafr:**
+"Again?! Where are we now?"
+
+Nate looks around in confusion.
+
+Show a wide cinematic view of the ongoing fantasy battle.
+
+A wounded warrior nearby slowly wakes up.
+
+---
+
+# 4. ACT 2 – THE WOUNDED WARRIOR
+
+## Character: Pelicon Warrior
+
+Create an experienced desert warrior.
+
+Appearance:
+- Medieval desert armour.
+- Weathered clothing.
+- Kingdom emblem.
+- Dust-covered outfit.
+- Ancient sword.
+- Detailed facial expressions.
+- Tired and wounded appearance.
+
+Keep the character's appearance non-graphic.
+
+### Cutscene dialogue
+
+The warrior slowly opens his eyes.
+
+**Warrior:**
+"Hey... you!"
+
+Nate turns toward him.
+
+**Warrior:**
+"Fight against the King's warriors! We can save the princess!"
+
+Nate looks confused.
+
+**Nate:**
+"Who is the princess?"
+
+The warrior points toward the castle.
+
+**Warrior:**
+"She's up in the castle!"
+
+"She is beautiful, honest and generous. Everyone in Pelicon loves her."
+
+Suddenly, an arrow flies from the distant battlefield and strikes the warrior.
+
+Keep the impact cinematic and non-graphic.
+
+The warrior falls back.
+
+Before losing consciousness, he says:
+
+"Save the princess..."
+
+The warrior becomes still.
+
+Nate looks shocked.
+
+Jafr looks toward the castle.
+
+**Jafr:**
+"Nate... I think we need to help them."
+
+Nate notices the warrior's sword.
+
+The camera focuses on the sword.
+
+Nate carefully picks it up.
+
+### Quest notification
+
+<escape>**MAIN QUEST: SAVE THE PRINCESS**</escape>
+
+Objective:
+- Reach the castle.
+- Help the Pelicon people.
+- Defeat the fictional King's forces.
+- Find a way into the castle.
+
+---
+
+# 5. ACT 3 – THE BATTLE OF PELICON
+
+## Playable fantasy action section
+
+The player gains control of Nate.
+
+Create an exciting, cinematic fantasy action sequence.
+
+**Important visual direction:** Combat must remain stylized and non-graphic. Focus on magical effects, cinematic movement, defensive animations and fantasy-game feedback. Do not include realistic injury details.
+
+### Sword gameplay
+
+Nate uses the warrior's sword.
+
+**Control:**
+- Right Click: Sword attack.
+
+Create:
+- Sword idle animation.
+- Sword drawing animation.
+- Swing animation.
+- Defensive movement.
+- Hit reaction animations.
+- Magical impact effects.
+- Enemy defeat animations.
+- Smooth camera response.
+
+Enemies should be fictional fantasy warriors wearing the King's uniforms.
+
+### Combat gameplay
+
+The player must progress through several battlefield areas.
+
+Create:
+- Different enemy groups.
+- Environmental obstacles.
+- Protective barriers.
+- Castle approach area.
+- Friendly Pelicon warriors.
+- Clear mission objectives.
+- Health and energy indicators.
+
+Enemies should react intelligently to the player's presence, but keep the combat stylized and game-like.
+
+Do not make the player fight endlessly.
+
+Create clear progression checkpoints.
+
+### Battlefield progression
+
+**Area 1 – Desert Wall**
+
+Nate begins near the outer battlefield wall.
+
+Objective: Clear the immediate path.
+
+**Area 2 – Abandoned Market**
+
+The player moves through an abandoned desert market.
+
+Add:
+- Market stalls.
+- Wooden structures.
+- Barrels.
+- Desert decorations.
+- Friendly survivors.
+- Enemy encounters.
+
+**Area 3 – Castle Road**
+
+Nate reaches the road leading toward the castle.
+
+Show a cinematic view of the castle gates.
+
+### Jafr dialogue
+
+During gameplay:
+
+"Nate! More of them!"
+
+"Look! The castle is over there!"
+
+"Come on! We need to save her!"
+
+Use contextual dialogue without excessive repetition.
+
+---
+
+# 6. ACT 4 – THE MAGICAL BOW
+
+During the battlefield progression, Nate discovers a magical bow.
+
+The bow is an ancient Pelicon weapon with magical properties.
+
+## Bow design
+
+Create a unique fantasy bow:
+- Ancient desert craftsmanship.
+- Gold and dark bronze decorations.
+- Glowing magical symbols.
+- Elegant curved structure.
+- Animated magical string.
+- Glowing arrow effects.
+
+### Bow collection
+
+When Nate approaches the bow:
+
+Display:
+
+`[PRESS E TO COLLECT THE MAGICAL BOW]`
+
+After collection:
+- Play pickup animation.
+- Add the bow to inventory.
+- Display item notification.
+- Update equipment system.
+
+### Bow controls
+
+| Control | Action |
+|---|---|
+| N | Switch between available bows |
+| Left Click | Aim |
+| Right Click | Shoot arrow |
+| E | Collect an item |
+
+**Important:** Keep the sword's right-click attack available only when the sword is equipped. When a bow is equipped, left-click aims and right-click shoots.
+
+### Magical Fire Bow
+
+The first bow has unlimited magical fire arrows.
+
+These are fictional fantasy projectiles.
+
+Visual effects:
+- Glowing orange and gold arrows.
+- Magical flame trails.
+- Soft particle effects.
+- Fantasy impact animations.
+
+Do not require the player to collect ammunition.
+
+### Arcane Burst Bow – Special Bow
+
+After progressing through the battlefield, unlock a second bow.
+
+**Display name:** ARCANE BURST BOW.
+
+This replaces the TNT Bow concept with a magical fantasy weapon.
+
+Features:
+- Glowing purple magical arrows.
+- Large visual energy bursts.
+- Non-realistic magical area effects.
+- Special animation.
+- Distinct sound effects.
+
+Do not implement real explosives or realistic explosive mechanics.
+
+### Bow switching
+
+Press N to open or cycle through available bows.
+
+Show a small equipment interface:
+
+1. Magical Fire Bow.
+2. Arcane Burst Bow.
+
+Display the currently equipped bow.
+
+Make the switch smooth and functional.
+
+---
+
+# 7. ACT 5 – THE FALL OF THE KING'S FORCES
+
+Continue the battle toward the castle.
+
+The player encounters the final group of King's warriors.
+
+Create a large cinematic battlefield encounter.
+
+### Gameplay
+
+- Use the sword or available magical bow.
+- Complete the final objective.
+- Protect the route toward the castle.
+- Clear the final fictional enemy group.
+- Trigger the victory sequence.
+
+Do not create graphic violence.
+
+### Victory cinematic
+
+When the final enemy group is defeated:
+
+1. Battlefield sounds gradually become quieter.
+2. The desert wind becomes audible.
+3. Friendly Pelicon warriors begin celebrating.
+4. The kingdom's banner rises.
+5. Camera shows the castle.
+6. The castle gates slowly open.
+7. Jafr looks at Nate.
+
+**Jafr:**
+"We did it!"
+
+"Now... let's find that princess!"
+
+Display:
+
+<escape>**PELİCON KINGDOM – VICTORY**</escape>
+
+Update the quest:
+
+`FIND THE PRINCESS`
+
+---
+
+# 8. ACT 6 – THE PRINCESS
+
+## First appearance of Princess Eita
+
+As Nate approaches the castle, the camera moves upward toward a balcony.
+
+A young princess stands there.
+
+The desert wind moves her long hair.
+
+She looks toward Nate.
+
+Nate looks toward her.
+
+Their eyes meet.
+
+Create a beautiful cinematic first meeting.
+
+### Princess character design
+
+# EITA YUSA
+### PRINCESS OF PELICON
+
+Eita is actually Nate's childhood friend from Brook Village.
+
+She was transported into THE BOOK at the age of four and has grown up inside its world.
+
+She is now sixteen years old.
+
+### Character appearance
+
+Design Eita as a beautiful, elegant and memorable fantasy princess.
+
+Her appearance should feel distinctive and visually attractive without exaggeration.
+
+**Face and expression:**
+- Expressive, warm eyes.
+- Gentle facial features.
+- Natural, confident expressions.
+- A memorable smile.
+- Detailed facial animation.
+- Natural blinking.
+- Realistic eye movement.
+
+**Hair:**
+- Long, flowing hair.
+- Beautiful natural movement.
+- Detailed strands.
+- Soft highlights.
+- Wind-responsive animation.
+- Hair must move naturally during cinematic scenes.
+
+**Clothing:**
+- Elegant Pelicon royal dress.
+- Beautiful desert-inspired embroidery.
+- Gold decorative details.
+- Soft pink and ivory colour accents.
+- Royal shoulder ornaments.
+- Tasteful fantasy jewellery.
+- Elegant shoes.
+- A small royal emblem.
+
+**Overall design:**
+- Graceful and confident personality.
+- Friendly expression.
+- Intelligent and honest character.
+- Royal appearance without looking overly mature.
+- Fully age-appropriate design.
+
+**Animation requirements:**
+- Natural walking.
+- Smooth turning.
+- Eye contact.
+- Blinking.
+- Smiling.
+- Surprised expression.
+- Emotional reactions.
+- Hair movement.
+- Dress movement.
+- Natural hand gestures.
+
+### First-meeting cinematic
+
+Eita looks at Nate.
+
+Nate looks at Eita.
+
+Eita gently blinks.
+
+Add a small, subtle fantasy heart-shaped magical particle effect to express a sudden crush.
+
+Do not make this an exaggerated romantic scene.
+
+### Dialogue
+
+**Jafr:**
+"Nate... I think the princess is looking at you!"
+
+Nate looks confused.
+
+Display a small subtitle:
+
+**NATE:** "Understand?"
+
+Eita smiles.
+
+The camera transitions toward the castle entrance.
+
+---
+
+# 9. ACT 7 – THE PRINCESS'S ROOM
+
+## Entering the castle
+
+The player enters the castle.
+
+Create a beautiful royal interior.
+
+### Castle environment
+
+- Large stone entrance.
+- Royal banners.
+- Golden decorations.
+- Marble floors.
+- Large chandeliers.
+- Tall windows.
+- Royal paintings.
+- Beautiful staircases.
+- Decorative plants.
+- Guard stations.
+- Magical lighting.
+
+The princess leads Nate toward her room.
+
+Two warriors remain outside the room.
+
+### Interaction
+
+Display:
+
+`[PRESS ENTER TO ENTER THE PRINCESS'S ROOM]`
+
+The player enters.
+
+The door closes.
+
+The environment becomes quiet.
+
+### Room design
+
+Create a beautiful royal bedroom.
+
+Include:
+- Large windows overlooking the desert.
+- Royal bed.
+- Bookshelves.
+- Writing desk.
+- Curtains.
+- Decorative flowers.
+- Elegant furniture.
+- Personal objects.
+- Magical lanterns.
+- A mirror.
+- A small collection of books.
+
+Use warm golden lighting and soft pink accents.
+
+---
+
+# 10. ACT 8 – THE REUNION
+
+## Emotional cutscene
+
+Inside the princess's room, Nate suddenly recognizes Eita.
+
+Nate gently takes her hand to get her attention.
+
+**Nate:**
+"Princess Eita! Please help me."
+
+"I'm trapped in this Book."
+
+"This is a story, and I don't know how to get out of it."
+
+Eita looks shocked.
+
+### Eita's response
+
+**Eita:**
+"You know... I am also a human from Brook Village."
+
+"When I was four years old, I came into this Book."
+
+"My age is now sixteen."
+
+"Then what can I do?"
+
+"I can't do anything."
+
+"But I became a princess."
+
+She pauses.
+
+**Eita:**
+"How do you know my name?"
+
+Nate looks surprised.
+
+**Nate:**
+"I know you because we study in the same magic school."
+
+"Eita Yusa!"
+
+Eita's eyes widen.
+
+She realizes who he is.
+
+### Emotional reunion
+
+Eita moves closer.
+
+**Eita:**
+"Leon..."
+
+"Finally, you found me!"
+
+Eita becomes emotional and hugs Nate as a reunion between childhood friends.
+
+Keep the scene wholesome, age-appropriate and focused on friendship.
+
+### Dialogue
+
+**Eita:**
+"I thought I would never see anyone from Brook Village again."
+
+"I missed everyone."
+
+Nate responds with a reassuring expression.
+
+**Eita:**
+"And I think you have your Jafr with you!"
+
+Jafr suddenly appears from the Universal Snail Pocket.
+
+He drops onto the floor, then looks around.
+
+**Jafr:**
+"Hi!"
+
+Eita smiles.
+
+But suddenly, a sound comes from her long hair.
+
+---
+
+# 11. ACT 9 – THE RETURN OF SNEH
+
+## Introduce the pink snail
+
+A small pink snail suddenly jumps out from Eita's long hair.
+
+The snail moves through the air and lands near a shelf.
+
+It accidentally rolls into the shelf.
+
+Create a funny but harmless animated moment.
+
+# CHARACTER: SNEH
+### EITA'S MAGICAL SNAIL COMPANION
+
+**Appearance:**
+- Small pink snail.
+- Beautiful pink shell.
+- Expressive eyes.
+- Cute personality.
+- Smooth crawling animation.
+- Natural talking animation.
+- Unique magical particles.
+
+Sneh is Jafr's old companion.
+
+### Dialogue
+
+**Sneh:**
+"You don't miss me, Jaf?"
+
+Jafr suddenly becomes emotional.
+
+**Jafr:**
+"I missed you very much, Sneh!"
+
+Sneh approaches Jafr.
+
+They look at each other.
+
+Create a warm friendship reunion.
+
+### Companion interactions
+
+- Jafr and Sneh move toward each other.
+- They perform a small greeting animation.
+- Their expressions change naturally.
+- They exchange dialogue.
+- They remain near Nate and Eita afterward.
+
+### Dialogue
+
+**Eita:**
+"I knew you would bring Jafr!"
+
+**Jafr:**
+"Of course! We always travel together!"
+
+Sneh looks at Jafr.
+
+**Sneh:**
+"Still talking too much?"
+
+Jafr reacts humorously.
+
+---
+
+# 12. ACT 10 – THE SECRET CONVERSATION
+
+## Outside the princess's room
+
+Two warriors stand outside the door.
+
+They hear sounds from inside.
+
+### Warrior dialogue
+
+**Warrior 1:**
+"Hey, did you hear something? Is something happening inside?"
+
+**Warrior 2:**
+"Don't worry about that."
+
+"He defeated the King's forces and rescued the princess."
+
+"You cannot stop him anyway. Just keep quiet!"
+
+The two warriors return to their positions.
+
+### Inside the room
+
+Nate explains his situation to Eita.
+
+**Nate:**
+"Eita, we can go to the end of this Book."
+
+"We can escape from here."
+
+**Eita:**
+"How?"
+
+"I tried many times, but I couldn't do anything."
+
+"How can we go home?"
+
+### Nate explains
+
+**Nate:**
+"I know a witch who told me about a place."
+
+"She said we can reach Agnes's Church."
+
+"Under the escape gate, there is a way out."
+
+"Maybe that's how we can escape."
+
+Eita looks hopeful.
+
+**Eita:**
+"Okay... let's go!"
+
+Eita looks toward Sneh.
+
+**Eita:**
+"Sneh, come!"
+
+Nate looks toward Jafr.
+
+**Nate:**
+"Jafr, come!"
+
+Jafr climbs onto Nate's shoulder.
+
+Sneh climbs onto Eita's shoulder.
+
+### Dialogue
+
+**Sneh:**
+"Another adventure?"
+
+**Jafr:**
+"Looks like it!"
+
+Eita smiles.
+
+The camera moves toward the room's window.
+
+Outside, the sun begins setting over the Pelicon Desert.
+
+---
+
+# 13. ACT 11 – THE ESCAPE FROM THE CASTLE
+
+## Magical power scene
+
+Nate discovers that he has a new magical ability.
+
+Create a cinematic magical energy effect around Nate.
+
+### Animation
+
+1. Nate stands beside Eita.
+2. A magical symbol appears beneath his feet.
+3. Golden energy surrounds him.
+4. His hands glow.
+5. A magical wind moves through the room.
+6. The room's curtains move.
+7. Eita looks surprised.
+8. Jafr and Sneh react.
+9. Nate uses his magic to open the way out.
+
+This is a fictional magical transportation ability.
+
+### Gameplay begins
+
+The player takes control of Nate.
+
+Eita follows Nate.
+
+Jafr remains on Nate's shoulder.
+
+Sneh remains on Eita's shoulder.
+
+### Objective
+
+`ESCAPE THE PRINCESS'S ROOM`
+
+Display:
+
+`[PRESS ENTER TO OPEN THE DOOR]`
+
+The player opens the door.
+
+The two warriors stand outside.
+
+They look surprised to see Nate and Eita together.
+
+Nate and Eita move through the corridor.
+
+### Corridor environment
+
+Create:
+- Royal paintings.
+- Large windows.
+- Decorative lamps.
+- Marble floor.
+- Golden railings.
+- Castle banners.
+- Royal furniture.
+- Stone staircases.
+
+### Staircase sequence
+
+The player must walk down the castle staircase.
+
+Use a cinematic third-person camera.
+
+Eita walks beside Nate.
+
+Jafr and Sneh react to the surroundings.
+
+### Dialogue
+
+**Eita:**
+"Where are we going now?"
+
+**Nate:**
+"We need to leave this castle first."
+
+**Jafr:**
+"And then find Agnes's Church!"
+
+**Sneh:**
+"Hopefully this adventure is not too dangerous."
+
+---
+
+# 14. ACT 12 – THE JOURNEY BEGINS
+
+## Castle exit
+
+Nate and Eita reach the main castle entrance.
+
+Display:
+
+`[PRESS ENTER TO EXIT THE CASTLE]`
+
+The castle doors open.
+
+Show a cinematic view of Pelicon town.
+
+### Pelicon town after victory
+
+The town is celebrating.
+
+Include:
+- People cheering.
+- Children celebrating.
+- Desert flags.
+- Market stalls reopening.
+- Friendly warriors.
+- Colourful decorations.
+- Lanterns.
+- Town musicians.
+- Beautiful sunset lighting.
+
+People recognise Nate as the hero who saved the princess.
+
+### Town celebration
+
+**Town People:**
+"Long live the princess!"
+
+"Thank you, hero!"
+
+"Pelicon is free!"
+
+Eita looks at Nate.
+
+**Eita:**
+"Thank you, Leon."
+
+Nate responds with a smile.
+
+Jafr and Sneh look at each other.
+
+**Jafr:**
+"Well, that was quite an adventure!"
+
+### Final gameplay
+
+The player controls Nate and walks with Eita through the castle exit.
+
+Character formation:
+- Nate walks in front.
+- Eita walks beside him.
+- Jafr stays on Nate's shoulder.
+- Sneh stays on Eita's shoulder.
+
+The camera moves behind the group.
+
+Show the desert horizon.
+
+The sun slowly sets.
+
+---
+
+# 15. CHAPTER 4 ENDING
+
+The group reaches the outskirts of Pelicon town.
+
+Nate looks toward the distant desert.
+
+Eita stands beside him.
+
+**Eita:**
+"So... Agnes's Church?"
+
+**Nate:**
+"Yes. That's our next destination."
+
+Jafr looks toward the horizon.
+
+**Jafr:**
+"Let's go, everyone!"
+
+Sneh responds:
+
+**Sneh:**
+"Let's find our way home!"
+
+The camera slowly moves upward.
+
+Show the enormous desert landscape.
+
+A distant ancient church is visible as a small silhouette between the dunes.
+
+A mysterious magical symbol appears in the sky.
+
+Fade to black.
+
+### Chapter completion screen
+
+# THE BOOK
+## CHAPTER 4 COMPLETED
+### THE WAR OF PELICON DESERT
+
+**NEXT: CHAPTER 5 – FINDING AGNES'S CHURCH**
+
+---
+
+# 16. NEW CHARACTER SYSTEMS
+
+## Eita – Princess Companion
+
+Eita becomes a permanent playable-world companion.
+
+Implement:
+- Follow behaviour.
+- Natural walking.
+- Idle animations.
+- Dialogue reactions.
+- Facial expressions.
+- Hand gestures.
+- Context-sensitive dialogue.
+- Smooth navigation.
+- Companion positioning.
+- Story-event reactions.
+
+She must remain close to Nate without blocking the player or camera.
+
+## Jafr – Magical Snail Companion
+
+Preserve the existing Jafr system.
+
+Add reactions to Sneh's return.
+
+## Sneh – Magical Snail Companion
+
+Implement:
+- Shoulder attachment to Eita.
+- Talking animation.
+- Crawling animation.
+- Idle animation.
+- Eye movement.
+- Reactions to Jafr.
+- Reactions to the environment.
+- Context-sensitive dialogue.
+
+## Companion group system
+
+During Chapter 4, the player has four main characters:
+
+1. Nate.
+2. Eita.
+3. Jafr.
+4. Sneh.
+
+Maintain correct positioning and animations.
+
+---
+
+# 17. GAMEPLAY CONTROLS
+
+Keep the existing movement and camera controls from earlier chapters.
+
+### Combat and equipment
+
+| Control | Action |
+|---|---|
+| Right Click | Sword attack when sword is equipped |
+| Left Click | Aim when a bow is equipped |
+| Right Click | Shoot when a bow is equipped |
+| N | Switch available bows |
+| E | Interact or collect |
+| ENTER | Open doors and continue designated interactions |
+| V | Observation mode |
+
+Make sure the controls are context-sensitive.
+
+Do not let the sword attack and bow shooting conflict.
+
+### Inventory additions
+
+Add:
+- Pelicon Warrior Sword.
+- Magical Fire Bow.
+- Arcane Burst Bow.
+- Pelicon Royal Emblem.
+- Eita's Story Journal.
+
+Every item must have a proper icon, description and inventory state.
+
+---
+
+# 18. QUEST SYSTEM
+
+Implement the following main quests:
+
+1. Survive the Arrival in Pelicon.
+2. Help the Wounded Warrior.
+3. Reach the Castle.
+4. Find the Magical Bow.
+5. Defeat the King's Forces.
+6. Save the Princess.
+7. Meet Princess Eita.
+8. Discover Eita's Past.
+9. Reunite Jafr and Sneh.
+10. Escape the Castle.
+11. Leave Pelicon Town.
+12. Begin the Journey to Agnes's Church.
+
+Each quest must be functional.
+
+Add:
+- Quest tracking.
+- Objective updates.
+- Completion notifications.
+- Save and load support.
+- Dialogue triggers.
+- Checkpoints.
+
+---
+
+# 19. CINEMATIC AND VISUAL DIRECTION
+
+Create a visually stunning fantasy adventure chapter.
+
+### Pelicon Desert
+- Golden sand.
+- Orange sunset.
+- Ancient castle.
+- Desert town.
+- Sandstorms.
+- Large battlefield.
+- Royal banners.
+
+### Castle
+- Royal architecture.
+- Golden decorations.
+- Marble floors.
+- Large windows.
+- Detailed interiors.
+- Beautiful princess bedroom.
+
+### Character cinematics
+- Natural eye contact.
+- Detailed facial animation.
+- Realistic hair movement.
+- Cloth simulation.
+- Natural body movement.
+- Cinematic lighting.
+- Smooth camera transitions.
+
+### Eita's special presentation
+
+Give Eita a consistent, distinctive visual identity.
+
+Her long hair should move naturally in the desert wind.
+
+Her expressions should communicate kindness, intelligence, surprise, happiness and emotion.
+
+Make her introduction memorable through excellent animation, camera composition and lighting rather than exaggerated visual effects.
+
+---
+
+# 20. SOUND AND MUSIC
+
+Create original music and sound effects for this chapter.
+
+### Background music
+
+1. Portal transportation – mysterious fantasy.
+2. Pelicon battlefield – cinematic orchestral fantasy.
+3. Wounded warrior scene – emotional atmosphere.
+4. Desert exploration – adventurous music.
+5. Castle victory – triumphant orchestral theme.
+6. Eita introduction – gentle magical theme.
+7. Nate and Eita reunion – emotional piano and strings.
+8. Jafr and Sneh reunion – warm, playful music.
+9. Castle escape – adventurous music.
+10. Chapter ending – hopeful cinematic theme.
+
+### Sound effects
+
+- Desert wind.
+- Sand movement.
+- Castle ambience.
+- Footsteps.
+- Sword fantasy effects.
+- Magical bow sounds.
+- Magical energy.
+- Door opening.
+- Castle bells.
+- Crowd cheering.
+- Snail movement.
+- Character dialogue.
+- Environmental ambience.
+
+Use original or properly licensed audio.
+
+---
+
+# 21. TECHNICAL IMPLEMENTATION
+
+Before implementation:
+
+1. Inspect the complete existing project.
+2. Understand its current game engine.
+3. Review Chapter 1, 2 and 3 systems.
+4. Reuse existing character models and animations.
+5. Extend the existing inventory.
+6. Extend the existing quest system.
+7. Extend the existing companion system.
+8. Preserve the save system.
+9. Add chapter transition logic.
+10. Test the complete chapter.
+
+Do not:
+- Rebuild the entire game.
+- Replace existing characters.
+- Break earlier chapters.
+- Remove existing features.
+- Create fake gameplay interactions.
+- Use static images instead of 3D scenes.
+- Add non-functional UI.
+- Reset saved progress.
+
+All new characters, locations, equipment, interactions, cutscenes and quests must be properly implemented.
+
+---
+
+# 22. TESTING AND QUALITY ASSURANCE
+
+Test the complete chapter from beginning to end.
+
+### Story
+- Chapter 3 transitions correctly.
+- Nate enters the Pelicon story.
+- Wounded warrior scene works.
+- Princess rescue objective activates.
+- Victory cinematic works.
+- Eita appears correctly.
+- Eita reveals her identity.
+- Jafr appears.
+- Sneh appears.
+- The reunion dialogue works.
+- Agnes's Church is introduced.
+- Chapter 4 ending plays correctly.
+
+### Gameplay
+- Sword equipment works.
+- Sword animation works.
+- Bow collection works.
+- Bow aiming works.
+- Bow shooting works.
+- N switches bows.
+- Arcane Burst Bow works as a magical fantasy weapon.
+- Enemy encounters work.
+- Castle entrance works.
+- Eita follows Nate.
+- Jafr and Sneh remain correctly positioned.
+- Castle exit works.
+
+### Character quality
+- Eita's appearance remains consistent.
+- Her hair movement works.
+- Facial animations work.
+- Dialogue subtitles work.
+- Companion animations work.
+- No character clipping occurs.
+
+### Continuity
+- Chapters 1–3 remain playable.
+- Chapter 4 saves correctly.
+- Inventory persists.
+- Quest progression persists.
+- Chapter 5 can start correctly.
+
+---
+
+# FINAL DEVELOPMENT INSTRUCTION
+
+Build Chapter 4 as a complete, polished, playable 3D fantasy adventure chapter.
+
+The chapter should combine:
+- Large-scale fantasy environments.
+- Exciting but non-graphic fantasy gameplay.
+- Cinematic storytelling.
+- Emotional character reunions.
+- Beautiful character presentation.
+- Magical companion interactions.
+- A meaningful mystery.
+- A strong transition to Chapter 5.
+
+The most important emotional moment is Nate discovering that the Pelicon princess is actually his childhood friend Eita Yusa.
+
+The second major moment is the reunion between Jafr and Sneh.
+
+Give both scenes enough time, expressive animations, excellent dialogue delivery and cinematic camera work.
+
+**Do not rush these scenes.**
+
+# THE BOOK
+## A NUBLIX ORIGINAL GAME
+### CHAPTER 4 – THE WAR OF PELICON DESERT
+
+### NEXT CHAPTER
+# CHAPTER 5 – FINDING AGNES'S CHURCH
